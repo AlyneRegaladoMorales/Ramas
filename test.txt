@@ -1,0 +1,6 @@
+git checkout -b featrure-git_checkout
+
+git push origin <rama_para_push>
+
+Cambiar rama
+git checkout featrure-git_checkout
