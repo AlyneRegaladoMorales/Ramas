@@ -1,6 +1,17 @@
 git checkout -b featrure-git_checkout
 
+sube tus cambios locales, de tu maquina, a la nube en la misma rama 
 git push origin <rama_para_push>
 
 Cambiar rama
 git checkout featrure-git_checkout
+
+Realizar merge
+
+Ubicarte en la rama  destino
+git checkout main
+Hacer el merge local 
+git merge  featrure-git_checkout
+
+Push de la rama destino a su restiva rama en remoto
+git push origin main
