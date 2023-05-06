@@ -1,0 +1,3 @@
+git checkout -b featrure-git_checkout
+
+git push origin <rama_para_push>
