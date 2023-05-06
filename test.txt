@@ -4,3 +4,7 @@ git push origin <rama_para_push>
 
 Cambiar rama
 git checkout featrure-git_checkout
+
+actualizar rama normal
+git pull <repositorio_remoto> <rama_remota>
+git pull origin main
