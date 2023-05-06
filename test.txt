@@ -15,3 +15,9 @@ git merge  featrure-git_checkout
 
 Push de la rama destino a su restiva rama en remoto
 git push origin main
+
+
+actualizar rama normal
+git pull <repositorio_remoto> <rama_remota>
+git pull origin main
+
